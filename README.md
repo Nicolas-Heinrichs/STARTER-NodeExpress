@@ -1,2 +1,2 @@
 Pour démarrer lancer un npm install
-listes des packages : express , nodemon , dotenv , typescript
+listes des packages : express , nodemon , dotenv
